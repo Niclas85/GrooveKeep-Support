@@ -20,7 +20,7 @@ Audiodateien werden über Apples systemeigene Dateien-Auswahl importiert. Groove
 
 ## Datenschutzrechte und Kontakt
 
-Der Entwickler betreibt keinen GrooveKeep-Server und besitzt daher keine Kopie der lokal gespeicherten Bibliothek. Fragen oder Datenschutzanliegen können über das öffentliche [Support- und Issue-Formular](https://github.com/Niclas85/LocalMusic-Android/issues) gestellt werden. Bitte dort keine persönlichen oder vertraulichen Informationen veröffentlichen.
+Der Entwickler betreibt keinen GrooveKeep-Server und besitzt daher keine Kopie der lokal gespeicherten Bibliothek. Fragen oder Datenschutzanliegen können über das öffentliche [Support- und Issue-Formular](https://github.com/Niclas85/GrooveKeep-Support/issues) gestellt werden. Bitte dort keine persönlichen oder vertraulichen Informationen veröffentlichen.
 
 Änderungen an dieser Erklärung werden auf dieser Seite veröffentlicht.
 
